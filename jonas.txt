@@ -1,0 +1,1 @@
+{"fernando": {"Idade": 2, "Sexo": "masculino", "Ra\u00e7a": "bonita", "Peso": 30, "Ra\u00e7\u00e3o por dia": 100, "Vacinas": ["x", "y"]}, "joana": {"Idade": 2, "Sexo": "feminino", "Ra\u00e7a": "feia", "Peso": 45, "Ra\u00e7\u00e3o por dia": 200, "Vacinas": []}}
